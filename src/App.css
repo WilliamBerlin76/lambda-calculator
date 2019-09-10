@@ -20,3 +20,11 @@
     padding-right: 8%;
     font-size: 5.0rem;
   }
+  .special__buttons {
+    background: blue;
+    color: white;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+  }
