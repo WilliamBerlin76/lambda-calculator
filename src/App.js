@@ -24,7 +24,9 @@ function App() {
         <Display />
         <Specials />
         <Numbers />
+        <div className="operator__container">
         <Operators />
+        </div>
       </div>
     </div>
   );
