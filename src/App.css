@@ -80,3 +80,7 @@
     margin-left: 30px;
     width: 84%;
   }
+  .number_buttons:nth-child(10){
+    width: 198px;
+    border-radius: 81px;
+  }
